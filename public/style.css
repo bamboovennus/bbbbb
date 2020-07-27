@@ -1,0 +1,9 @@
+.blueText{
+    color: blueviolet;
+    text-transform: lowercase;
+    border: 1px solid black;
+    background:blanchedalmond;
+}
+.ui-controlgroup-vertical {
+    width: 150px;
+}
